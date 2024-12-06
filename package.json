@@ -1,6 +1,6 @@
 {
  "scripts": {
-  "start": "node --max-old-space-size=4096 server.js",
+  "start": "node --max-old-space-size=4096 index.ts",
   "test": "jest"
  },
  "dependencies": {
